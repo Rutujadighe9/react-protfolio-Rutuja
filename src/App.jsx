@@ -1,10 +1,12 @@
 import React, { Component } from 'react'
 import Navbar from './component/Navbar'
-import Hero from './component/hero'
+// import Hero from './component/Hero'
 import About from './component/about'
  import Contact from './component/Contact'
 import Technology from'./component/Technology'
 import Project from './component/project'
+import Hero from './component/Hero'
+
 export class App extends Component {
   static propTypes = {}
 
