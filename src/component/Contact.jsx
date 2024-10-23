@@ -22,15 +22,16 @@ const Contact = () => {
           className='my-4'
         >
 
-          Rutuja Dighe 
-    
-          sagnmaner, Maharashtra
+          Name:    Rutuja Dighe
+          <br />
+          Address:  sagnmaner, Maharashtra
+          <br />
           Phone: +91 8668211273
-     
-         Email: rutujadighe9@gmail.com
+          <br />
+          Email: rutujadighe9@gmail.com
         </motion.p>
 
-        
+
       </div>
     </div>
   );

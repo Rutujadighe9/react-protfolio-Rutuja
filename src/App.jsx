@@ -5,7 +5,7 @@ import Contact from './component/Contact'
 import Technology from './component/Technology'
 import Project from './component/project'
 import Hero from './component/Hero'
-
+import Experience from './component/Experience'
 export class App extends Component {
   static propTypes = {}
 
@@ -27,7 +27,9 @@ export class App extends Component {
           <Navbar />
           <Hero />
           <About />
+          <Experience/>
           <Contact />
+
           <Technology />
           <Project />
         </div>
