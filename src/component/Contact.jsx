@@ -22,12 +22,12 @@ const Contact = () => {
           className='my-4'
         >
 
-          Rutuja Patel<br/>
+          Rutuja Dighe 
+    
           sagnmaner, Maharashtra
-          <br/>
           Phone: +91 8668211273
-          <br/>
-          Email: rutujadighe9@gmail.com
+     
+         Email: rutujadighe9@gmail.com
         </motion.p>
 
         
