@@ -21,17 +21,16 @@ const Contact = () => {
           transition={{ duration: 0.5 }}
           className='my-4'
         >
-          Sagmner Kolhewadi Manoli-Road
+
+          Rutuja Patel<br/>
+          sagnmaner, Maharashtra
+          <br/>
+          Phone: +91 8668211273
+          <br/>
+          Email: rutujadighe9@gmail.com
         </motion.p>
 
-        <motion.p
-          whileInView={{ opacity: 1, y: 0 }}
-          initial={{ opacity: 0, y: 100 }}
-          transition={{ duration: 0.5 }}
-          className='my-4 text-center'
-        >
-          8668211273
-        </motion.p>
+        
       </div>
     </div>
   );

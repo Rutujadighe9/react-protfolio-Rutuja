@@ -1,6 +1,6 @@
 
 import React from 'react';
-import profilePic from "../assets/assets/images.jfif";
+import profilePic from "../assets/assets/rutuja.jpg";
 const HERO_CONTENT = "I am a passionate full-stack developer specializing in creating dynamic, responsive web and mobile applications. With 3 years of experience at Baap Company, I have honed my skills in both front-end and back-end development, working primarily with Flutter for mobile apps and Node.js, MongoDB, MySQL, and SQL on the server side. I thrive on solving complex problems and enjoy building scalable, user-friendly applications. Currently pursuing my Bachelor’s in Computer Applications (BCA), I’m always looking to learn new technologies and improve my skills. My goal is to contribute to innovative projects and grow within a multinational company.";
 import { motion } from "framer-motion";
 const contanier = (dealy) => ({

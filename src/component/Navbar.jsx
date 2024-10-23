@@ -12,11 +12,23 @@ const Navbar = () => {
             <img className='mx-3 w-20' src={logo} alt="logo" />
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl"  >
-            <FaLinkedin />
-            <FaGithub />
-            <FaTwitterSquare />
-            <FaInstagram />
-            <FaGitlab />
+
+
+            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <FaLinkedin />
+            </a>
+            <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <FaGithub />
+            </a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                <FaTwitterSquare />
+            </a>
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <FaInstagram />
+            </a>
+            <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer" aria-label="GitLab">
+                <FaGitlab />
+            </a>
         </div>
     </nav>
 }
